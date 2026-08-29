@@ -16,8 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=NaveenSS101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 🧩 LeetCode Stats:
-![](https://leetcard.jacoblin.cool/NaveenSS101?theme=dark&font=Baloo%202&ext=heatmap)
-
----
-[![](https://komarev.com/ghpvc/?username=NaveenSS101&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Naveen's LeetCode Stats](https://leetcard.jacoblin.cool/Naveen_101?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/Naveen_101/)
